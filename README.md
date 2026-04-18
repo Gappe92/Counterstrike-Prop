@@ -19,6 +19,6 @@ This is the source code for a Counter-Strike prop for playing Airsoft.
 ## Notes
 Developed with a colleague as part of a university project.
 
-![inside-view](images/inside-view.png)
+![inside-view](images/inside-view.jpg)
 
-![outside-view](images/outside-view.png)
+![outside-view](images/outside-view.jpg)
